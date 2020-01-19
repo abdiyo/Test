@@ -1,1 +1,14 @@
 This is created on breanch 
+
+
+This is test file #1
+This is the second update to the testfile1
+This is the third change commited 
+This is change made locally and pulled 
+
+New line added on github 
+
+Another line on local computer and pushed to git
+
+
+FINAL VERSION
