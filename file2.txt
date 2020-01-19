@@ -1,5 +1,0 @@
-This is test file #1
-This is the second update to the testfile1
-This is the third change commited 
-
-This is the final version 
