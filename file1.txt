@@ -8,4 +8,8 @@ New line added on github
 Another line on local computer and pushed to git
 
 
-FINAL VERSION 
+FINAL VERSION
+
+This line added via branch 
+
+This is another line added to branch 
